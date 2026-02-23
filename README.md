@@ -11,7 +11,7 @@ In this exercise, I created a Trello board and completed the required task.
 - Trello board link
 
 ### Trello Board Link
-[View Trello Board]((https://trello.com/b/vuC8baJs/comscigroup3))
+[View Trello Board].[https://trello.com/b/vuC8baJs/comscigroup3]
 
 ### Description
 The Trello board was used to organize tasks and demonstrate understanding of project management tools.
